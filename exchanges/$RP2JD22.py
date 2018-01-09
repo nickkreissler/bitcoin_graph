@@ -28,7 +28,7 @@ ax.plot(t, s)
 ax.plot(t, d)
 
 ax.set(xlabel='time (min)', ylabel='Value of coin)',
-       title='Bitcoin tracker January 5 - January 6; 5:00 (Collects data every 2 mins')
+       title='Bitcoin tracker January 6 - January 7; 5:00 (Collects data every 1 min')
 ax.grid()
 
 fig.savefig("test.png")

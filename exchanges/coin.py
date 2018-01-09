@@ -25,6 +25,7 @@ while(True):
             time.sleep(60)
             c[y] += [x]
             z+=1
+            print(z)
             if z==1439:
                 n = open("C:/Users/nickd/Desktop/bitcoinchange"+str(i), 'w+')
                 n.write(str(c))
