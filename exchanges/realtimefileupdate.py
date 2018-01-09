@@ -2,7 +2,7 @@ from time import gmtime, strftime
 import time
 from bitfinex import Bitfinex
 
-c = 0
+c = 249
 
 def getvar():
     x = strftime("%H", gmtime())
