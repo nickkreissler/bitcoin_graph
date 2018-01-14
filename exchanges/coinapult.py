@@ -47,3 +47,4 @@ class Coinapult(object):
             if btc_amount < size:
                 return level
         return cls.TICKER_LEVEL[-1][1]
+

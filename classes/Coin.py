@@ -30,24 +30,24 @@ class Bitcoin_utils:
                "Graphing data is done by running the self.coin.py file"
 
 class Graph_data(Bitcoin_utils):
-    def __init__(self, coin):
+    def __init__(self, coin, count = 0):
         self.coin = coin
-        self.count = 0
-        z = open(self.coin + ".py", 'w')
+        self.count = count
+        z = open('files/' + self.coin + ".py", 'w')
         z.write(switch(open('functions.py', 'r').read(),self.coin))
 
     def makefile(self):
-        z = open(self.coin + '.txt', 'w')
+        z = open('files/' + self.coin + '.txt', 'w')
         z.close()
 
     def appendfile(self, currentcoinprice):
         try:
-            x,y = str(self.count), str(int(currentcoinprice))
-            time.sleep(10)
-            a = open(self.coin +'.txt', 'a')
+            x,y = str(self.count), str(float(currentcoinprice))
+
+            a = open('files/' + self.coin +'.txt', 'a')
             a.write(x + ',' + y + '\n')
             a.close()
-            self.count += 1
+
         except:
             print("Error")
 class Notification_system(Bitcoin_utils):

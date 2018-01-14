@@ -22,4 +22,4 @@ def animate(i):
     ax1.set(xlabel='time (10 sec)', ylabel='Value of coin)',
            title="Bitoin: " + str(y) )
 ani = animation.FuncAnimation(fig, animate, interval=1000)
-plt.show()
+plt.xshow()

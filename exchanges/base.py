@@ -67,11 +67,14 @@ class Exchange(ExchangeBase):
                 'bid' : self.get_current_bid(),
                 'ask' : self.get_current_ask()}
 
-    def get_current_price(self):
+    def get_current_price(self,arg):
         self.get_data()
-        price = self._current_price_extractor(self.data)
-        return Decimal(price)
+        price = self._current_price_extractor(self.data,arg)
+        try:
 
+            return Decimal(price)
+        except:
+            print("error")
     def get_current_bid(self):
         self.get_data()
         price = self._current_bid_extractor(self.data)

@@ -16,7 +16,7 @@ def animate(i):
         if len(eachLine)>1:
             x,y = eachLine.split(',')
             xar.append(int(x))
-            yar.append(int(y))
+            yar.append(float(y))
     ax1.clear()
     ax1.plot(xar,yar)
     ax1.set(xlabel='time (10 sec)', ylabel='Value of coin)',

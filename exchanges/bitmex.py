@@ -12,6 +12,7 @@ class Bitmex(FuturesExchange):
 
     def get_current_data(self):
         self.refresh()
+
         symbols = []
         dates = []
         bids = []
@@ -36,3 +37,5 @@ class Bitmex(FuturesExchange):
             'asks' : [Decimal(str(x)) for x in asks],
             'last' : [Decimal(str(x)) for x in last]
         }
+x = Bitmex()
+print(x.data)
