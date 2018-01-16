@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bitcoin-price-api-master.iml" filepath="$PROJECT_DIR$/.idea/bitcoin-price-api-master.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/markets/.idea/markets.iml" filepath="$USER_HOME$/PycharmProjects/markets/.idea/markets.iml" />
     </modules>
   </component>
 </project>

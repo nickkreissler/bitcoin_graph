@@ -2,13 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="264470e5-844f-4595-8afa-8db04f8e5743" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exchanges/realtimefileupdate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exchanges/realtimegraphs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exchanges/test.png" afterPath="$PROJECT_DIR$/exchanges/test.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bitcoin-price-api-master.iml" afterPath="$PROJECT_DIR$/.idea/bitcoin-price-api-master.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exchanges/$RP2JD22.py" afterPath="$PROJECT_DIR$/exchanges/$RP2JD22.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exchanges/coin.py" afterPath="$PROJECT_DIR$/exchanges/coin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Coin.py" afterPath="$PROJECT_DIR$/classes/Coin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_AMP.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_AMP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_ARDR.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_ARDR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BCH.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BCH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BCN.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BCN.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BCY.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BCY.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BELA.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BELA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BLK.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BLK.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BTCD.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BTCD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BTM.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BTM.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BTS.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BTS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_BURST.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_BURST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_CLAM.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_CLAM.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_CVC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_CVC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_DASH.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_DASH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_DCR.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_DCR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_DGB.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_DGB.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_DOGE.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_DOGE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_EMC2.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_EMC2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_ETC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_ETC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_ETH.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_ETH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_EXP.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_EXP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_FCT.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_FCT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_FLDC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_FLDC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_FLO.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_FLO.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_GAME.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_GAME.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_GAS.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_GAS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_GNO.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_GNO.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_GNT.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_GNT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_GRC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_GRC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_HUC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_HUC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_LBC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_LBC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_LSK.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_LSK.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_LTC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_LTC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_MAID.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_MAID.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_NAV.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_NAV.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_NEOS.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_NEOS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_NMC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_NMC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_NXC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_NXC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_NXT.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_NXT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_OMG.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_OMG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_OMNI.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_OMNI.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_PASC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_PASC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_PINK.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_PINK.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_POT.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_POT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_PPC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_PPC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_RADS.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_RADS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_REP.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_REP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_RIC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_RIC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_SBD.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_SBD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_SC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_SC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_STEEM.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_STEEM.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_STORJ.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_STORJ.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_STR.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_STR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_STRAT.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_STRAT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_SYS.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_SYS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_VIA.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_VIA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_VRC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_VRC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_VTC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_VTC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XBC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XBC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XCP.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XCP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XEM.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XEM.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XMR.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XMR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XPM.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XPM.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XRP.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XRP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_XVC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_XVC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_ZEC.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_ZEC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/BTC_ZRX.txt" afterPath="$PROJECT_DIR$/classes/files/BTC_ZRX.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_BCH.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_BCH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_CVC.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_CVC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_ETC.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_ETC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_GAS.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_GAS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_GNO.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_GNO.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_GNT.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_GNT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_LSK.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_LSK.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_OMG.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_OMG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_REP.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_REP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_STEEM.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_STEEM.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_ZEC.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_ZEC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/ETH_ZRX.txt" afterPath="$PROJECT_DIR$/classes/files/ETH_ZRX.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_BCH.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_BCH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_BTC.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_BTC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_DASH.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_DASH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_ETC.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_ETC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_ETH.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_ETH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_LTC.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_LTC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_NXT.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_NXT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_REP.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_REP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_STR.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_STR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_XMR.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_XMR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_XRP.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_XRP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/USDT_ZEC.txt" afterPath="$PROJECT_DIR$/classes/files/USDT_ZEC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_BCN.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_BCN.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_BLK.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_BLK.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_BTCD.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_BTCD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_DASH.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_DASH.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_LTC.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_LTC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_MAID.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_MAID.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_NXT.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_NXT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/files/XMR_ZEC.txt" afterPath="$PROJECT_DIR$/classes/files/XMR_ZEC.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,15 +114,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DockManager">
-    <window id="1">
+    <window id="2">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file leaf-file-name="$RP2JD22.py" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/exchanges/$RP2JD22.py">
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="realtimegraphs.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/exchanges/realtimegraphs.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="510">
-                    <caret line="30" column="12" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="86" />
+                  <state relative-caret-position="374">
+                    <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
                     <folding>
                       <element signature="e#0#31#0" expanded="true" />
                     </folding>
@@ -38,15 +134,15 @@
         </state>
       </content>
     </window>
-    <window id="2">
+    <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file leaf-file-name="realtimegraphs.py" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/exchanges/realtimegraphs.py">
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="$RP2JD22.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/exchanges/$RP2JD22.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="374">
-                    <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+                  <state relative-caret-position="578">
+                    <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
                     <folding>
                       <element signature="e#0#31#0" expanded="true" />
                     </folding>
@@ -61,48 +157,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="profit.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exchanges/profit.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="51">
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="realtimefileupdate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchanges/realtimefileupdate.py">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/markets/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="436">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
-                <element signature="e#0#33#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchanges/coin.py">
+      <file leaf-file-name="ast.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/ast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sampleText.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchanges/sampleText.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2873">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="963">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,12 +225,14 @@
         <option value="$PROJECT_DIR$/exchanges/realtimefileupdate.py" />
         <option value="$PROJECT_DIR$/exchanges/realtimegraphs.py" />
         <option value="$PROJECT_DIR$/exchanges/sampleText.txt" />
+        <option value="$PROJECT_DIR$/classes/files/BTC_AMP.txt" />
+        <option value="$USER_HOME$/PycharmProjects/markets/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="489" />
-    <option name="y" value="-19" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1498" />
+    <option name="y" value="-20" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -154,24 +252,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="bitcoin-price-api-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitcoin-price-api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="bitcoin_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin_graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="bitcoin-price-api-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitcoin-price-api-master" type="462c0819:PsiDirectoryNode" />
+              <item name="bitcoin_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitcoin_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitcoin_graph" type="462c0819:PsiDirectoryNode" />
               <item name="exchanges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitcoin_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.realtimegraphs">
+  <component name="RunManager" selected="Python.main">
     <configuration name="$RP2JD22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,6 +315,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="bitcoin-price-api-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exchanges/$RP2JD22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="BTC_AMP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\nickd\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes/files" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bitcoin-price-api-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/files/BTC_AMP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,36 +370,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="profit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exchanges" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/markets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bitcoin-price-api-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exchanges/profit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="realtimefileupdate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exchanges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="bitcoin-price-api-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exchanges/realtimefileupdate.py" />
+      <module name="markets" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/markets/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,20 +404,39 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="6">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\nickd\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bitcoin-price-api-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.coin" />
       <item index="1" class="java.lang.String" itemvalue="Python.graph" />
-      <item index="2" class="java.lang.String" itemvalue="Python.profit" />
-      <item index="3" class="java.lang.String" itemvalue="Python.$RP2JD22" />
-      <item index="4" class="java.lang.String" itemvalue="Python.realtimegraphs" />
-      <item index="5" class="java.lang.String" itemvalue="Python.realtimefileupdate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.$RP2JD22" />
+      <item index="3" class="java.lang.String" itemvalue="Python.realtimegraphs" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="5" class="java.lang.String" itemvalue="Python.BTC_AMP" />
+      <item index="6" class="java.lang.String" itemvalue="Python.main" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.realtimegraphs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.$RP2JD22" />
-        <item index="2" class="java.lang.String" itemvalue="Python.realtimefileupdate" />
-        <item index="3" class="java.lang.String" itemvalue="Python.profit" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BTC_AMP" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.realtimegraphs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.$RP2JD22" />
       </list>
     </recent_temporary>
   </component>
@@ -328,10 +454,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15138593" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15298508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.5191898" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32608697" sideWeight="0.48081023" order="2" side_tool="false" content_ui="tabs" />
@@ -376,7 +501,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -386,7 +511,45 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/realtimefileupdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/coin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/sampleText.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -396,7 +559,7 @@
         <state relative-caret-position="170">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -405,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -414,7 +576,7 @@
         <state relative-caret-position="136">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -423,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -432,7 +593,7 @@
         <state relative-caret-position="170">
           <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -442,7 +603,7 @@
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -451,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +620,7 @@
         <state relative-caret-position="408">
           <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -470,7 +630,7 @@
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -479,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -488,7 +647,7 @@
         <state relative-caret-position="340">
           <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -498,7 +657,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -507,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,11 +675,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exchanges/bitfinex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/realtimefileupdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/coin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/files/BTC_AMP.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -531,28 +725,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exchanges/sampleText.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2873">
+        <state relative-caret-position="17">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exchanges/coin.py">
+    <entry file="file://$PROJECT_DIR$/classes/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exchanges/realtimefileupdate.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/ast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="963">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/markets/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchanges/$RP2JD22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -560,29 +782,9 @@
     <entry file="file://$PROJECT_DIR$/exchanges/realtimegraphs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exchanges/$RP2JD22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="12" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exchanges/profit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>

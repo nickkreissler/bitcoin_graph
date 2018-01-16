@@ -61,7 +61,7 @@ class Notification_system(Bitcoin_utils):
         time.sleep(10)
         self.x += 10
         if self.x / 60 == timevalue:
-            for i in self.value:
+            for i in self.values:
                 if i > self.values[0]*int('1' + str(percent)):
                     fromaddr = 'nick.d.kreissler@gmail.com'
                     toaddrs = self.recipient
